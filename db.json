@@ -1,10 +1,57 @@
 {
-    "scubaList":[
-        {
-            
-        },
-        {
-           
-        }
-    ]
+  "scubaList": [
+    {
+      "protection": [
+        "Wet Suit",
+        "Dry Suit",
+        "Gloves",
+        "Hood",
+        "Boots",
+        "Jacket"
+      ]
+    },
+    {
+      "equipment": [
+        "Mask",
+        "Snorkel",
+        "Fins",
+        "Dive Computer",
+        "BCD",
+        "BCD weight pockets",
+        "Weight Belt",
+        "Weights",
+        "Regulator",
+        "Scuba Cylinder",
+        "Pony set up",
+        "Compass"
+      ]
+    },
+    {
+      "accesories": [
+        "Dive Knife",
+        "Line Cutter",
+        "Reel",
+        "DSMB",
+        "Dive Float & flag",
+        "Dive light",
+        "Underwater camera",
+        "Catch Bag",
+        "Log Book",
+        "Hose Holder",
+        "Diving Slate",
+        "Safety Wistle",
+        "Glow Sticks/ Marker Light"
+      ]
+    },
+    {
+      "backup": [
+        "Spare Fin Strap",
+        "Spare Mask Strap",
+        "Spare O-rings",
+        "First aid kit",
+        "Allen Keys",
+        "Spare Hoses"
+      ]
+    }
+  ]
 }
