@@ -1,17 +1,15 @@
 {
   "scubaList": [
     {
-      "protection": [
-        "Wet Suit",
-        "Dry Suit",
-        "Gloves",
-        "Hood",
-        "Boots",
-        "Jacket"
-      ]
+      
+      
+      "category": "protection",
+      "name": ["Wet Suit","Dry Suit","Gloves","Hood","Boots","Jacket"]
+     
     },
     {
-      "equipment": [
+      "category": "equipment",
+      "name": [
         "Mask",
         "Snorkel",
         "Fins",
@@ -27,7 +25,8 @@
       ]
     },
     {
-      "accesories": [
+      "category": "accesories",
+      "name": [
         "Dive Knife",
         "Line Cutter",
         "Reel",
@@ -44,7 +43,8 @@
       ]
     },
     {
-      "backup": [
+      "category": "backup",
+      "name": [
         "Spare Fin Strap",
         "Spare Mask Strap",
         "Spare O-rings",
