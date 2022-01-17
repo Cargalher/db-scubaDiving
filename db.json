@@ -3,127 +3,152 @@
 {
   "id": 1,
       "name": "Mask",
-      "img": "https://www.scubastore.com/f/124/1243979/cressi-maschera-sub-f1.jpg"
+      "img": "https://www.scubastore.com/f/124/1243979/cressi-maschera-sub-f1.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 2,
       "name": "Snorkel",
-      "img": "https://www.scubastore.com/f/124/1243997/cressi-tubo-per-immersioni-alpha-ultra-dry.jpg"
+      "img": "https://www.scubastore.com/f/124/1243997/cressi-tubo-per-immersioni-alpha-ultra-dry.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 3,
       "name": "Fins",
-      "img": "https://www.scubastore.com/f/13694/136943580/scubapro-pinne-immersione-seawing-nova-2.jpg"
+      "img": "https://www.scubastore.com/f/13694/136943580/scubapro-pinne-immersione-seawing-nova-2.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 4,
       "name": "Hood",
-      "img": "https://www.scubastore.com/f/1/13234/cressi-modulare-cappuccio-hf-ultraspan-5-mm.jpg"
+      "img": "https://www.scubastore.com/f/1/13234/cressi-modulare-cappuccio-hf-ultraspan-5-mm.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 5,
       "name": "Gloves",
-      "img": "https://www.scubastore.com/f/0/4651/cressi-guanti-ultrastrecht-3.5-mm.jpg"
+      "img": "https://www.scubastore.com/f/0/4651/cressi-guanti-ultrastrecht-3.5-mm.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 6,
       "name": "BCD/Wings",
-      "img": "https://www.cressi.com/easyUp/store/zoom/1148_ic721905_sqg5_z.jpg"
+      "img": "https://www.cressi.com/easyUp/store/zoom/1148_ic721905_sqg5_z.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 7,
       "name": "Regulator",
-      "img": "https://ae01.alicdn.com/kf/HTB13t.BJFXXXXa_XFXXq6xXFXXXB/EZDIVE-AKUANA-Scuba-Diving-OW-Aria-Regolatore-Pacchetto-Equilibrata-Regolatore-e-Polpi-Combo.jpg_Q90.jpg_.webp"
+      "img": "https://ae01.alicdn.com/kf/HTB13t.BJFXXXXa_XFXXq6xXFXXXB/EZDIVE-AKUANA-Scuba-Diving-OW-Aria-Regolatore-Pacchetto-Equilibrata-Regolatore-e-Polpi-Combo.jpg_Q90.jpg_.webp",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 8,
       "name": "Air cylinder",
-      "img": "https://danangscuba.com/wp-content/uploads/2016/03/Danangscuba_Tanks.jpg"
+      "img": "https://danangscuba.com/wp-content/uploads/2016/03/Danangscuba_Tanks.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 9,
       "name": "Weight Belt or Integrated weight pocket",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zavorra.JPG/640px-Zavorra.JPG"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zavorra.JPG/640px-Zavorra.JPG",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 10,
       "name": "Weights",
-      "img": "https://www.amronintl.com/media/catalog/product/cache/1/image/520x520/9df78eab33525d08d6e5fb8d27136e95/s/e/sea-pearls-uncoated-solid-diving-weights-web.jpg"
+      "img": "https://www.amronintl.com/media/catalog/product/cache/1/image/520x520/9df78eab33525d08d6e5fb8d27136e95/s/e/sea-pearls-uncoated-solid-diving-weights-web.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 11,
       "name": "Wet suit/Dry suit",
-      "img": "https://www.scubadoctor.com.au/assets/images/buying_wetsuits_drysuits.jpg"
+      "img": "https://www.scubadoctor.com.au/assets/images/buying_wetsuits_drysuits.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 12,
       "name": "Boots",
-      "img": "https://www.puffosport.it/images/stories/virtuemart/product/1394_cressi-korsor-rigid-sole-boots.jpg"
+      "img": "https://www.puffosport.it/images/stories/virtuemart/product/1394_cressi-korsor-rigid-sole-boots.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 13,
       "name": "Dive Computer",
-      "img": "https://www.suunto.com/globalassets/productimages/suunto-eon-steel/ss020305000-suunto-eon-steel-l.png?height=1100&format=jpg&bgcolor=f6f6f6"
+      "img": "https://www.suunto.com/globalassets/productimages/suunto-eon-steel/ss020305000-suunto-eon-steel-l.png?height=1100&format=jpg&bgcolor=f6f6f6",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 14,
       "name": "Compass",
-      "img": "https://www.scubastore.com/f/13784/137848450/cressi-bungee-wrist-compass.jpg"
+      "img": "https://www.scubastore.com/f/13784/137848450/cressi-bungee-wrist-compass.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 15,
       "name": "Torch",
-      "img": "https://m.media-amazon.com/images/I/61tGxmfY+KL._AC_SL1200_.jpg"
+      "img": "https://m.media-amazon.com/images/I/61tGxmfY+KL._AC_SL1200_.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 16,
       "name": "SMB",
-      "img": "https://www.easydivers-thailand.com/wp-content/uploads/2019/07/Surface-Marker-Buoy.jpg"
+      "img": "https://www.easydivers-thailand.com/wp-content/uploads/2019/07/Surface-Marker-Buoy.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 17,
       "name": "Knife",
-      "img": "https://soprassub.com/wp-content/uploads/2018/02/571840-SS-Dive-knife-black-coating.jpg"
+      "img": "https://soprassub.com/wp-content/uploads/2018/02/571840-SS-Dive-knife-black-coating.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 18,
       "name": "CPR Pocket Mask",
-      "img": "https://www.scubatoys.com/images/Products/Safety/XSScubaCPR1Large.jpg"
+      "img": "https://www.scubatoys.com/images/Products/Safety/XSScubaCPR1Large.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 19,
       "name": "First aid kit",
-      "img": "https://www.amronintl.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/commercial-diver-kit-fak360.jpg"
+      "img": "https://www.amronintl.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/commercial-diver-kit-fak360.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 20,
       "name": "Pony set up",
-      "img": "https://www.ubuy.co.it/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzF5OXNjU2tnTkwuX0FDX1NMMTUwMF8uanBn.jpg"
+      "img": "https://www.ubuy.co.it/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzF5OXNjU2tnTkwuX0FDX1NMMTUwMF8uanBn.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 21,
       "name": "Backup gear",
-      "img": "https://images.squarespace-cdn.com/content/v1/54ac182fe4b041b86b0920ad/1568135618837-ZOELFSOEISTRNC1DO9LE/11973.jpg"
+      "img": "https://images.squarespace-cdn.com/content/v1/54ac182fe4b041b86b0920ad/1568135618837-ZOELFSOEISTRNC1DO9LE/11973.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 22,
       "name": "towel",
-      "img": "https://i.etsystatic.com/18488149/r/il/0bfe40/1846820628/il_570xN.1846820628_li52.jpg"
+      "img": "https://i.etsystatic.com/18488149/r/il/0bfe40/1846820628/il_570xN.1846820628_li52.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 23,
       "name": "Scuba Certification Card",
-      "img": "https://fh-sites.imgix.net/sites/1660/2020/04/25183955/PADI-Open-Water-Diver-Card.png?auto=compress%2Cformat&w=700&h=700&fit=max"
+      "img": "https://fh-sites.imgix.net/sites/1660/2020/04/25183955/PADI-Open-Water-Diver-Card.png?auto=compress%2Cformat&w=700&h=700&fit=max",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 24,
       "name": "Dive Accident Insurance",
-      "img": "https://www.daneurope.org/o/dan-theme/images/DANlogo.svg"
+      "img": "https://www.daneurope.org/o/dan-theme/images/DANlogo.svg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     },
     {
       "id": 25,
       "name": "Emergency Phone Numbers",
-      "img": "https://mvpql.es/wp-content/uploads/2019/02/TELEFONOS-EMERGENCIA_ING.jpg"
+      "img": "https://mvpql.es/wp-content/uploads/2019/02/TELEFONOS-EMERGENCIA_ING.jpg",
+      "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare eget nulla a placerat. Donec ultrices, magna sed dictum vehicula, nisl mi scelerisque justo, in hendrerit mi massa id risus. Quisque interdum mattis ligula, non gravida sapien sodales ac. In pretium enim a dui porttitor, eu consequat nisi vestibulum. Praesent arcu urna, consectetur vitae quam sit amet, ullamcorper bibendum sem. Sed tortor dui, rhoncus eu nunc vitae, iaculis varius massa. Pellentesque urna diam, condimentum nec maximus sit amet, suscipit id metus. Donec vitae porttitor lectus. Pellentesque gravida ut lorem sed semper. Nam consequat tristique gravida. Nunc non turpis vel tortor."
     }
   ]
 }
